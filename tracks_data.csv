@@ -1,0 +1,61 @@
+Genre,Track Name,Artist,Album,Popularity,Duration (ms),Explicit
+pop,Pop Muzik,"M, Robin Scott",Pop Muzik,61,200682,FALSE
+pop,Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series),"The Weeknd, Playboi Carti, Madonna",Popular (Music from the HBO Original Series),83,215466,TRUE
+pop,Pop Out (feat. Lil Tjay),"Polo G, Lil Tjay",Die A Legend,73,166560,TRUE
+pop,"Popular - From ""Wicked"" Original Broadway Cast Recording/2003","Stephen Schwartz, Kristin Chenoweth, Stephen Oremus, Alex Lacamoire",Wicked (Original Broadway Cast Recording / Deluxe Edition),58,224386,FALSE
+pop,Popular Monster,Falling In Reverse,Popular Monster,69,220537,TRUE
+pop,Popular Monster,Falling In Reverse,Popular Monster,69,220537,TRUE
+pop,Dior,Pop Smoke,Meet The Woo,76,216386,TRUE
+pop,Poppin,Yeat,2 Alivë,65,167186,TRUE
+pop,Big Poppa - 2005 Remaster,The Notorious B.I.G.,Ready to Die (The Remaster),80,252746,TRUE
+pop,"Pop, Lock & Drop It",Huey,"Pop, Lock & Drop It",47,263240,TRUE
+rap,Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),74,363521,TRUE
+rap,RAPSTAR,Polo G,Hall of Fame,78,165925,TRUE
+rap,Rapp Snitch Knishes,"MF DOOM, Mr. Fantastik",MM..FOOD,75,172893,TRUE
+rap,RAP DEVIL,mgk,RAP DEVIL,55,286117,TRUE
+rap,Rap Niggas,BigXthaPlug,AMAR (Deluxe),62,164746,TRUE
+rap,Rape Me,Nirvana,In Utero (Deluxe Edition),70,170000,FALSE
+rap,Rap Saved Me (feat. Quavo),"21 Savage, Offset, Metro Boomin, Quavo",Without Warning,64,257600,TRUE
+rap,Rapido (with Cris Mj),"Dei V, Cris Mj",Quién es Dei V?,78,146000,TRUE
+rap,Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),45,363521,FALSE
+rap,Rápido Soy,Clave Especial,Rápido Soy,72,114125,FALSE
+edm,The Wreck of the Edmund Fitzgerald,Gordon Lightfoot,Summertime Dream,59,389280,FALSE
+edm,Calling (Lose My Mind) - Radio Edit,"Sebastian Ingrosso, Alesso, Ryan Tedder",EDM Hits,54,205440,FALSE
+edm,EDM,"Big Baby Tape, Aarne, Платина",PEEKABOO,53,163529,TRUE
+edm,EDM,Carta,EDM,46,136406,FALSE
+edm,EDM,"Bear Grillz, Getter",Bear Grillz & Friends Volume 2,18,185601,FALSE
+edm,EDM,UNIVERSAL DJ'S,"UNIVERSAL DJ'S, Vol. 2 (Electro)",13,125537,FALSE
+edm,dear edmond,Ophelia Wilde,the secret diary,52,137064,FALSE
+edm,EDM,The First Station,Bass Drop,21,247406,FALSE
+edm,Edmund Temper,Amigo the Devil,Everything is Fine,32,225706,FALSE
+edm,EDM,LORD UNCLE DAVE,"Art x Beats x Soul, Vol. 1",11,212349,FALSE
+r&b,Runaway,"Kanye West, Pusha T",My Beautiful Dark Twisted Fantasy,81,547733,TRUE
+r&b,Red Wine Supernova,Chappell Roan,The Rise and Fall of a Midwest Princess,85,192720,TRUE
+r&b,APT.,"ROSÉ, Bruno Mars",APT.,96,169917,FALSE
+r&b,Rah Tah Tah,"Tyler, The Creator",CHROMAKOPIA,84,165412,TRUE
+r&b,Ribs,Lorde,Pure Heroine,77,258969,FALSE
+r&b,Romantic Homicide,d4vd,Romantic Homicide,85,132630,FALSE
+r&b,"Red - From ""Descendants: The Rise of Red""","Kylie Cantrall, Alex Boniello, Disney","Red (From ""Descendants: The Rise of Red"")",68,188674,FALSE
+r&b,Rich Girl,Daryl Hall & John Oates,Bigger Than Both Of Us,81,142786,FALSE
+r&b,Revenge,XXXTENTACION,17,85,120026,TRUE
+r&b,Ric Flair Drip (with Metro Boomin),"Offset, Metro Boomin",Without Warning,82,172800,TRUE
+country,"Take Me Home, Country Roads - Original Version",John Denver,"Poems, Prayers and Promises",75,190160,FALSE
+country,Country Girl (Shake It For Me),Luke Bryan,Tailgates & Tanlines,73,225560,FALSE
+country,When It Rains It Pours,Luke Combs,This One's for You,81,240760,FALSE
+country,Country Grammar (Hot Shit),Nelly,Country Grammar,66,287000,TRUE
+country,You Proof,Morgan Wallen,One Thing At A Time,80,157477,FALSE
+country,"Take Me Home, Country Roads",John Denver,"The John Denver Collection, Vol 1: Take Me Home Country Roads",72,197813,FALSE
+country,Country Boy's Dream Girl,Ella Langley,Excuse The Mess,66,185026,FALSE
+country,Up Down (feat. Florida Georgia Line),"Morgan Wallen, Florida Georgia Line",If I Know Me,70,197253,FALSE
+country,Country Boy Singin’ The Blues,Cody Johnson,Leather Deluxe Edition,13,232226,FALSE
+country,Think I'm In Love With You,Chris Stapleton,Higher,76,222800,FALSE
+rock,Rock,Stepz,Rock,66,144113,FALSE
+rock,Rock and A Hard Place,Bailey Zimmerman,Religiously. The Album.,76,207540,FALSE
+rock,Rocky Top,The Osborne Brothers,Bluegrass Then & Now,48,160026,FALSE
+rock,Rock Your Body,Justin Timberlake,Justified,78,267266,FALSE
+rock,Rockstar,Nickelback,All the Right Reasons (Special Edition),62,252040,FALSE
+rock,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,Honky Chateau,79,281613,FALSE
+rock,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",beerbongs & bentleys,80,218146,TRUE
+rock,Rock with You - Single Version,Michael Jackson,Off the Wall,79,220626,FALSE
+rock,Rocky Theme,Gonna Fly Now,Rocky Theme,46,164861,FALSE
+rock,Rockstar,LISA,Rockstar,85,138213,TRUE
